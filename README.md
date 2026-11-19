@@ -1,5 +1,7 @@
 # Time series shuffle experiment
 
+[Download Signal Shuffle for Windows](https://github.com/polarvapourer/time-series-shuffle/releases/latest/download/SignalShuffle-Wave.exe)
+
 I used Python to generate two artificial signals: a sine wave and a noisy
 copy delayed by four time steps. I then shuffled the copy to see which
 checks would detect the change.
