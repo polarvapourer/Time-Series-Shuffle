@@ -64,3 +64,5 @@ after = np.corrcoef(a_earlier, shuffled_later)[0, 1]
 print(f"Before shuffling: {before:.2f}")
 print(f"After shuffling:  {after:.2f}")
 
+input("\nPress Enter to close...")
+
